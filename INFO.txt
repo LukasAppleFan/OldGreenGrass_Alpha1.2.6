@@ -1,0 +1,8 @@
+This pack is ported by LUKAS / LukasAppleFan / Lukas_Leboss
+This green pack is from idea I found online.
+It may not look 100% like alpha 1.1.2
+-----------------------------------------------------------
+Name: 	   OldGreenGrass_Alpha1.2.6
+File name: OldGreenGrass_Alpha1.2.6.zip
+Version:   1.0
+For Minecraft Alpha 1.2.6
